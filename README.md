@@ -20,4 +20,4 @@ A simple and responsive **To-Do List** application built with **HTML**, **CSS**,
 
 Here’s a screenshot of the **To-Do List app**:
 
-![Demo Screenshot](path/to/screenshot.png)
+![Demo Screenshot](screenshottodolist.png)

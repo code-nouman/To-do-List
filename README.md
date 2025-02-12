@@ -17,6 +17,8 @@ A simple and responsive **To-Do List** application built with **HTML**, **CSS**,
 - **JavaScript**: Task management, including adding, editing, deleting, and drag-and-drop functionality.
 
 ## **Demo**
+You can view the live demo of the **To-Do List app** here:  
+[**Live Demo**](https://nouman-todolist-projects.netlify.app/)
 
 Here’s a screenshot of the **To-Do List app**:
 
